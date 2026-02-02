@@ -97,8 +97,8 @@
     display: inline-block;
     padding: 4px;
     position: relative;
-    width: 127px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     vertical-align: middle;
 }
 
@@ -301,3 +301,4 @@
     border-radius: 5px !important;
     margin-bottom: 5px;
 }
+
